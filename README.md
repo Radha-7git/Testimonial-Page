@@ -24,4 +24,4 @@ You can view the page layout by visiting the live demo or by cloning this reposi
 
 ## Screenshot
 
-![Testimonial Page Screenshot](.png)
+![Testimonial Page Screenshot](./screenshot/sc1.png)
